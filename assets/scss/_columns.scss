@@ -1,0 +1,14 @@
+.main-columns {
+	display: flex;
+	flex-wrap: wrap;
+	margin: $stn-space 0;
+	> div:first-child {
+		width: 20%;
+		text-align: right;
+	}
+
+	> div:nth-child(2) {
+		padding-left: $stn-space;
+		width: 75%;
+	}
+}

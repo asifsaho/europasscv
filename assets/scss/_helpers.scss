@@ -1,0 +1,37 @@
+.uppercase {
+	text-transform: uppercase;
+}
+
+strong, .bold {
+	font-weight: bold;
+}
+
+.italic {
+	font-style: italic;
+}
+
+.text-right {
+	text-align: right;
+}
+
+.text-center {
+	text-align: center;
+}
+
+.flex-v-center {
+	display: flex;
+	align-items: center
+}
+
+.text-small {
+	font-size: 11px;
+	line-height: 1.5em;
+}
+
+.text-medium {
+	font-size: 13px;
+}
+
+sup, .sup {
+	vertical-align: super;
+}

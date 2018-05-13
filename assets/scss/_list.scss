@@ -1,0 +1,14 @@
+ul {
+	li {
+		margin-bottom: 10px;
+		width: 100%;
+		&:last-child {
+			margin: 0;
+		}
+
+		i {
+			margin-right: 10px;
+			color: $main-color;
+		}
+	}
+}

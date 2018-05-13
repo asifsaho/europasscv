@@ -1,0 +1,17 @@
+{
+  "name": "tabular-cv",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node-sass assets/scss/style.scss assets/css/style.min.css --source-map-true --watch --output-style compressed",
+    "sass": "node-sass assets/scss/style.scss assets/css/style.min.css --output-style compressed"
+  },
+  "author": "asifsaho",
+  "license": "ISC",
+  "dependencies": {
+    "handlebar": "^1.0.0",
+    "node-sass": "^4.9.0",
+    "reset-css": "^3.0.0"
+  }
+}

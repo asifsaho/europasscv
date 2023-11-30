@@ -11,7 +11,7 @@
   "license": "ISC",
   "dependencies": {
     "handlebar": "^1.0.0",
-    "node-sass": "^4.9.0",
+    "node-sass": "^7.0.2",
     "reset-css": "^3.0.0"
   }
 }
